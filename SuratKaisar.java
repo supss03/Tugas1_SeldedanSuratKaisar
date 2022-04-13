@@ -2,7 +2,7 @@ package Tugas1;
 
 import java.util.Scanner;
 
-public class Solution {
+public class SuratKaisar {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
